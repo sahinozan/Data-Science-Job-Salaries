@@ -10,7 +10,7 @@ This project is about doing exploratory data analysis on data science job salari
 The source of the dataset is <a href="https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries/">Kaggle.</a>
 Thanks to <a href="https://www.kaggle.com/ruchi798">Ruchi Bhatia</a> for this dataset.
 <a href="https://www.kaggle.com/code/sahinozan/data-science-job-salaries-eda">Kaggle</a> version of the notebook is suggested instead of Github.
-This notebook is awarded with Bronze Medal🥉 by the Kaggle users.
+This notebook is awarded with Silver Medal🥈 by the Kaggle users.
 
 
 </pre>
