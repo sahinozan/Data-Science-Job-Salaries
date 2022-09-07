@@ -10,7 +10,7 @@
 </pre>
 
 <p align="justify">
-  <img src="notebook_medal.png"
+  <img src="medal.png"
       alt="Notebook Medal icon"
       style="float: center;"/>
 </p>
